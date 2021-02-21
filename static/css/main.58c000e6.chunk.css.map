@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,aACE,YAAa,CACb,6BAA8B,CAC9B,eAAgB,CAChB,kBAAmB,CACnB,eAAgB","file":"main.58c000e6.chunk.css","sourcesContent":[".button_wrap {\n  display: flex;\n  justify-content: space-between;\n  margin-top: 50px;\n  margin-bottom: 20px;\n  max-width: 520px;\n}\n"]}
